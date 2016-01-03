@@ -7,8 +7,8 @@ while "bitch"=="bitch":
     password=input("Type the password.\n")
     if password!="yes":
         continue
-    print("'sup, John. Type 'lock' in case you don't want niggers to acces your valuable information. Type anything else to exit")
+    print("'sup, John. Type 'lock' in case you don't want niggers to access your valuable information. Type anything else to exit.")
     taipu=input("")
     if taipu!="lock":
         break
-print("Goodbye")
+print("Goodbye!")
